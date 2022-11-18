@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 modbus = "1.0"
+toml = "0.5.9"
